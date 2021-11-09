@@ -40,5 +40,8 @@
         "US NSF Career Award 1055560",
         "Burroughs Well CASI Award 1007274"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "EthicsApprovals": [
+        "IRBs at JHH, NIH, KUMC, UMF"
+    ]
 }
