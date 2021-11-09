@@ -32,7 +32,13 @@
     "HowToAcknowledge": "Please cite the following papers: https://www.biorxiv.org/content/10.1101/2021.10.15.464594v1 and https://www.nature.com/articles/s41593-021-00901-w",
     "Funding": [
         "NIH T32 EB003383",
-        "NSF GRFP (DGE-1746891)"
+        "NSF GRFP (DGE-1746891)",
+        "ARCS Scholarship",
+        "Whitaker Fellowship",
+        "Chateaubriand Fellowship",
+        "NIH R21 NS103113",
+        "US NSF Career Award 1055560",
+        "Burroughs Well CASI Award 1007274"
     ],
     "License": "CC0"
 }
