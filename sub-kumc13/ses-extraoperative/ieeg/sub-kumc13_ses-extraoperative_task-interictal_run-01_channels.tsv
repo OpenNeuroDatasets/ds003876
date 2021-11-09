@@ -1,0 +1,277 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	rz
+RAM1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RAM2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RAM3	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RAM4	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RAM5	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RAM6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RAM7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RAM8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RAM9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAM10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAM11	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAM12	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RHH1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RHH2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RHH3	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RHH4	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RHH5	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	yes	yes
+RHH6	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	yes	yes
+RHH7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHH8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHH9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RHH10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RHH11	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RHH12	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RHB1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RHB2	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHB3	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHB4	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	yes
+RHB5	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHB6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHB7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHB8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	yes
+RHB9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RHB10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RHB11	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RHB12	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF3	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+ROF4	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF5	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF6	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF7	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF8	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF9	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+ROF11	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+ROF12	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI3	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI4	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI5	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI6	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI7	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI11	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI12	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAI13	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI14	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI15	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAI16	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPI1	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI2	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI3	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPI4	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPI5	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI7	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPI8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI11	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI12	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPI13	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPI14	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPI15	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPI16	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAC1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAC2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAC3	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAC4	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAC5	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAC6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAC7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAC8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAC9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAC10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAC11	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAC12	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPC1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPC2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPC3	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC4	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC5	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC11	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC12	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC13	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC14	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RPC15	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RPC16	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAG1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAG2	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAG3	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAG4	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RAG5	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAG6	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAG7	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RAG8	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RSMG1	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RSMG2	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RSMG3	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RSMG4	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RSMG5	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RSMG6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RSMG7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RSMG8	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+C125	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C126	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C127	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C128	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+RFUS1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS3	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS4	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS5	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS6	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+RFUS8	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS9	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS10	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS11	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+RFUS12	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH1	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH2	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH3	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH4	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH5	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+LHH7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+LHH8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	White Matter	n/a	n/a
+LHH9	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH10	SEEG	µV	0.0	256.0	StereoEEG	512.0	good	n/a	n/a	n/a
+LHH11	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+LHH12	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C153	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C154	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C155	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C156	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C157	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C158	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C159	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C160	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C161	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C162	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C163	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C164	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C165	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C166	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C167	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C168	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C169	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C170	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C171	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C172	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C173	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C174	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C175	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C176	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C177	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C178	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C179	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C180	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C181	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C182	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C183	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C184	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C185	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C186	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C187	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C188	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C189	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C190	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+EKG1	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+EKG2	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C193	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C194	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C195	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C196	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C197	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C198	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C199	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C200	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C201	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C202	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C203	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C204	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C205	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C206	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C207	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C208	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C209	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C210	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C211	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C212	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C213	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C214	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C215	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C216	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C217	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C218	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C219	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C220	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C221	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C222	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C223	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C224	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C225	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C226	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C227	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C228	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C229	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C230	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C231	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C232	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C233	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C234	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C235	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C236	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C237	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C238	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C239	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C240	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C241	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C242	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C243	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C244	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C245	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C246	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C247	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C248	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C249	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C250	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C251	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C252	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C253	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C254	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C255	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+C256	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC1	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC2	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC3	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC4	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC5	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC6	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC7	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC8	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC9	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC10	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC11	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC12	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC13	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC14	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC15	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+DC16	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+TRIG	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+OSAT	SEEG	n/a	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+PR	SEEG	n/a	0.0	256.0	StereoEEG	512.0	bad	Excel-labeled	n/a	n/a
+PLETH	SEEG	µV	0.0	256.0	StereoEEG	512.0	bad	n/a	n/a	n/a

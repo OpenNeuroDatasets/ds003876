@@ -1,0 +1,33 @@
+{
+    "Name": "Epilepsy-iEEG-Interictal-Multicenter-Dataset",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Gunnarsdottir, Kristin",
+        "Li, Adam",
+        "Smith, Rachel",
+        "Kang, Joon",
+        "Korzeniewska, Anna",
+        "Crone, Nathan",
+        "Rouse, Adam",
+        "Cheng, Jennifer",
+        "Kinsman, Michael",
+        "Landazuri, Patrick",
+        "Uysal, Utku",
+        "Ulloa, Carol",
+        "Cameron, Nathaniel",
+        "Cajigas, Iahn",
+        "Jagid, Jonathan",
+        "Kanner, Andres",
+        "Elarjani, Turki",
+        "Bicchi, Manuel",
+        "Inati, Sara",
+        "Zaghloul, Kareem",
+        "Boerwinkle, Varina",
+        "Wyckoff, Sarah",
+        "Barot, Niravkumar",
+        "Gonzalez-Martinez, Jorge",
+        "Sarma, Sridevi"
+    ],
+    "HowToAcknowledge": "Please cite the following papers: https://www.biorxiv.org/content/10.1101/2021.10.15.464594v1 and https://www.nature.com/articles/s41593-021-00901-w"
+}
