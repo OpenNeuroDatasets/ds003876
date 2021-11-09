@@ -30,6 +30,9 @@
         "Sarma, Sridevi"
     ],
     "HowToAcknowledge": "Please cite the following papers: https://www.biorxiv.org/content/10.1101/2021.10.15.464594v1 and https://www.nature.com/articles/s41593-021-00901-w",
-    "Funding": [],
+    "Funding": [
+        "NIH T32 EB003383",
+        "NSF GRFP (DGE-1746891)"
+    ],
     "License": "CC0"
 }
