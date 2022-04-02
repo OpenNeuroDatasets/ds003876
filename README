@@ -5,10 +5,9 @@ This dataset comprises of de-identified subjects with interictal iEEG recordings
 
 - National Institute of Health (NIH)
 - Johns Hopkins Hospital (JHH)
-- Kansas University Medical Center (KUMC)
 - University of Miami Florida Jackson Memorial Hospital (UMF)
 
-In the actual study, there is also data from University of Pittsburgh Medical Center and Cleveland Clinic, whose data is not shared due to restrictions imposed by the centers there.
+In the actual study, there is also data from Kansas University Medical Center (KUMC), University of Pittsburgh Medical Center and Cleveland Clinic, whose data is not shared due to restrictions imposed by the centers there.
 
 Some subjects, namely with the ``rns`` prefix in their subject ID were treated with RNS rather then surgical resection/ablation.
 
