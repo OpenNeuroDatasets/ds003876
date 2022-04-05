@@ -47,5 +47,6 @@
     "ReferencesAndLinks": [
         "https://www.nature.com/articles/s41593-021-00901-w",
         "https://www.biorxiv.org/content/10.1101/2021.10.15.464594v1 "
-    ]
+    ],
+    "Acknowledgements": "MNE-BIDS was used for converting datasets to BIDS format. "
 }
