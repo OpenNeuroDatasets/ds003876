@@ -49,5 +49,5 @@
         "https://www.biorxiv.org/content/10.1101/2021.10.15.464594v1 "
     ],
     "Acknowledgements": "MNE-BIDS was used for converting datasets to BIDS format. ",
-    "DatasetDOI": "doi:10.18112/openneuro.ds003876.v1.0.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds003876.v1.0.2"
 }
